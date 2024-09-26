@@ -1,0 +1,6 @@
+@MotivoSuporte_HostAddress = http://localhost:5290
+
+GET {{MotivoSuporte_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
